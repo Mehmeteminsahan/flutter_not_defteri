@@ -1,2 +1,2 @@
 # flutter_not_defteri
-Flutter ile sqflite kullanılarak veri depolama
+Flutter ile sqflite cihaz depolama kullanılarak veri depolama
